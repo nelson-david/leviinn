@@ -82,7 +82,7 @@ const Features = () => {
                     <div className="col-xl-6">
                         <div className="content">
                             <h3>Color & text styles</h3>
-                            <p>Carefully chosen color scheme and text styles guarantees a more polished, professional appearance, making this template more visually appealing to users. It's also very easy to replace with your own font and colors.</p>
+                            <p>Carefully chosen color scheme and text styles guarantees a more polished, professional appearance, making this template more visually appealing to users. It&apos;s also very easy to replace with your own font and colors.</p>
                         </div>
                     </div>
                 </div>
