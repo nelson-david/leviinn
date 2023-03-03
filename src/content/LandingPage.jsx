@@ -15,6 +15,7 @@ const LandingPage = () => {
                     width="1000"
                     height="500"
                     src="https://framerusercontent.com/images/Gd3Yit2xrNnwGKoCYY6fCPEfeaA.svg"
+                    alt="Header Image"
                 />
             </div>
 

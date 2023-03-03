@@ -33,6 +33,7 @@ const Features = () => {
                                 src="https://res.cloudinary.com/ruthless-labs/image/upload/v1677869711/leviinn/zrvcnt9ai7kwr1fqxb4t.png"
                                 width="570"
                                 height="410"
+                                alt="Animations and effects"
                             />
                         </div>
                     </div>
@@ -59,6 +60,7 @@ const Features = () => {
                                 src="https://res.cloudinary.com/ruthless-labs/image/upload/v1677869711/leviinn/mtgoxitg95gh8pvbldxg.png"
                                 width="570"
                                 height="410"
+                                alt="Devices"
                             />
                         </div>
                     </div>
@@ -73,6 +75,7 @@ const Features = () => {
                                 src="https://res.cloudinary.com/ruthless-labs/image/upload/v1677869711/leviinn/r8pdwdgjqcgdfxkh90yn.png"
                                 width="570"
                                 height="410"
+                                alt="Color and text styles"
                             />
                         </div>
                     </div>
@@ -99,6 +102,7 @@ const Features = () => {
                                 src="https://res.cloudinary.com/ruthless-labs/image/upload/v1677869711/leviinn/vcn3lfshdlufilokmnub.png"
                                 width="570"
                                 height="410"
+                                alt="Components to keep things organized"
                             />
                         </div>
                     </div>

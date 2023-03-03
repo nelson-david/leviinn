@@ -16,16 +16,19 @@ const Header = () => {
                     width="40"
                     height="40"
                     src="https://framerusercontent.com/images/4EIANjev7LuKhnhOHDsv1sNBN4Y.webp"
+                    alt="User1"
                 />
                 <Image
                     width="40"
                     height="40"
                     src="https://framerusercontent.com/images/o5CxWeo9S23mxGCOjIDR1A4ltc.webp"
+                    alt="User2"
                 />
                 <Image
                     width="40"
                     height="40"
                     src="https://framerusercontent.com/images/NOxlPZmgcQR4kkzg3A4NjqZuYSU.webp"
+                    alt="User3"
                 />
             </div>
 

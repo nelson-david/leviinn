@@ -20,6 +20,7 @@ const PricingCard = ({ pricing }) => {
                                         height={20}
                                         width={20}
                                         src="https://framerusercontent.com/images/Rc1gZq5WQNxIbnMSaFsOLzuI0.svg"
+                                        alt={feature.title}
                                     />{feature}</li>
                             )
                         })
